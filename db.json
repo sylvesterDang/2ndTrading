@@ -1,9 +1,23 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "User":[
+        {
+        "id": 1,
+        "name": "Leanne Graham",
+        "username": "Bret",
+        "email": "Sincere@april.biz",
+        "address": "le dai hanh Q11 TPHCM",
+        "phone": "11234566"
+        }
+    ],
+    
+    "Product":[
+        {
+        "type": "laptop",
+        "Userid": 1,
+        "id":1,
+        "decription": "hang con moi 90%",
+        "url": "https://via.placeholder.com/600/92c952",
+        "thumbnailUrl": "https://via.placeholder.com/150/92c952"    
+        }
+    ]
 }
